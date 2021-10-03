@@ -1,0 +1,33 @@
+/* CSS files --> abilitis.html */
+body{
+    background-color: #f0eea6;
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color: rgb(219, 154, 154);
+} 
+h1{
+    text-align: center; 
+    font-family: Courier New;
+    background-color: #af92e6;
+} 
+h4{
+    text-align: center; 
+    font-family: Courier New; 
+    font-weight: normal;
+}
+h5{ 
+    text-align: center; 
+    font-family: Courier New; 
+    font-weight: normal;
+}
+h2{ 
+    text-align: center;
+    background-color: #df98d9;
+} 
+.table-skills{
+    margin-left: auto; 
+    margin-right: auto; 
+    background-color: #ffffff;
+}

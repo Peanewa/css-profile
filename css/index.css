@@ -1,0 +1,63 @@
+/* CSS file --> index.html */
+/* (1) Tag Selector */
+body{
+    background-color: #e9f0a8;
+}
+h1{
+    text-align: center;
+    font-family: Courier New;
+    /*background-color: #88dddd;*/
+}
+h2{
+    text-align: center;
+    font-family: Courier New;
+    font-weight: normal;
+    /*background-color: #88dddd;*/
+}
+h4{
+    text-align: center;
+    font-family: Courier New;
+    font-weight: normal;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+th{
+    width: 33.33%; 
+    vertical-align: top;
+}
+/* (2) Class Selector */
+.p-Aboutme{
+    font-weight: normal; 
+    text-align: justify;
+}
+.p-Name{
+    font-weight: normal;
+}
+.p-Footer{
+    text-align: center;
+}
+.name{
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+    background-color: rgb(209, 170, 231);
+}
+/* (3) Id Selector */
+#th-Details{
+    text-align: left;
+}
+
+/* div */
+.top-container{
+    background-color: rgb(223, 143, 143);
+}
+.table-menu td:hover{
+    background-color: #d88a8e;
+}
+.table-content h2{
+    background-color: rgb(192, 121, 137);
+}
+.table-content img:hover{
+    background-color: rgb(204, 128, 141);
+}

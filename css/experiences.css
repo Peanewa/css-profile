@@ -1,0 +1,33 @@
+/* CSS files --> experiences.html */
+body{
+    background-color: #f1f5bb;
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color: rgb(245, 171, 226);
+}
+h1{
+    text-align: center; 
+    font-family: Courier New;
+    background-color: #ec9a9e;
+} 
+h4{
+    text-align: center; 
+    font-family: Courier New; 
+    font-weight: normal;
+}
+h5{ 
+    text-align: center; 
+    font-family: Courier New; 
+    font-weight: normal;
+}
+.table-content{
+    margin-left: auto; 
+    margin-right: auto;
+    background-color: #d37f8a;
+}
+.ul-circle{
+    list-style-type:circle;
+    background-color: #ffffff;
+} 

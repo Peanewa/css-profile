@@ -1,0 +1,14 @@
+/* CSS files --> contact.html */
+body{
+    background-color: #f9fabe;
+}
+table{
+    width:100%; 
+    text-align: center;
+    background-color: rgb(238, 170, 218);
+}
+h1{
+    text-align: center;
+    font-family: Courier New;
+    background-color: #e4acf1;
+}

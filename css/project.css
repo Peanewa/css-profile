@@ -1,0 +1,32 @@
+/* CSS files --> projects.html */
+body{
+    background-color: #f1eaab;
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color: rgb(228, 245, 169);
+}
+h1{
+    text-align: center; 
+    font-family: Courier New;
+    background-color: #e797dd;
+} 
+h4{
+    text-align: center; 
+    font-family: Courier New; 
+    font-weight: normal;
+}
+h5{ 
+    text-align: center; 
+    font-family: Courier New; 
+    font-weight: normal;
+}
+.p-namesong{
+    text-align: center; 
+    font-family: Courier New; 
+    font-weight: normal;
+}
+.p-song{
+    text-align: center;     
+}
